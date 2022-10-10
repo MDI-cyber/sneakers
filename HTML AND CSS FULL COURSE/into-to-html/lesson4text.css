@@ -1,0 +1,232 @@
+p {
+  font-family: arial;
+  margin-bottom: 0;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-author {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-description {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.shop-link {
+  cursor: pointer;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
+
+.tahoma-font {
+  font-family: tahoma;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.deals-text {
+  font-size: 22px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.sales-text {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(202, 41, 41);
+  margin-top: 0;
+}
+
+.verdana-line-one {
+  font-family: verdana;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.line-two {
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.course-description {
+  width: 280px;
+  font-family: Verdana;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.get-started {
+  margin-top: 0;
+  background-color: green;
+  border: none;
+  text-align: center;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  color: white;
+  border-radius: 5px;
+}
+
+.shopping-text {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+}
+
+.see-how {
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+}
+
+.learn-more a {
+  color: rgb(13, 174, 237);
+  font-size: 12px;
+  font-family: arial;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+
+.new-text {
+  color: red;
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 55px;
+}
+
+.mac-text {
+  font-weight: bold;
+  text-align: center;
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.super-text {
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.from-text {
+  font-family: arial;
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+  text-align: center;
+  margin-top: 0;
+}
+
+.buy-button {
+  background-color: rgb(35, 145, 218);
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.buy {
+  text-align: center;
+  margin-bottom: 85px;
+}
+
+.amount-text {
+  font-family: arial;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.usd-text {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+
+.today-text {
+  font-family: arial;
+  font-size: 15px;
+  color: green;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.after-text {
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 55px;
+}
+
+.numbers {
+  color: rgb(227, 65, 64);
+}
+
+.free-code {
+  font-weight: bold;
+}
+
+.free-camp {
+  color: rgb(96, 96, 96);
+  font-weight: normal;
+}
+
+.note {
+  width: 550px;
+}
+
+.chp-text {
+  color: rgb(8, 174, 239);
+}
+
+marquee {
+  color: red;
+}/*# sourceMappingURL=lesson4text.css.map */
